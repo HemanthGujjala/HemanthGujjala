@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hemanthgujjala.github.io/portfolio/](https://hemanthgujjala.github.io/portfolio/)
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **hemanthgujjala2002@gmail.com**
 
