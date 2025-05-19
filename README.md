@@ -5,8 +5,6 @@
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=hemanthgujjala&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthgujjala" /> </p>
 
-<p align="left"> <a href="https://x.com/HGujjala" target="blank"><img  width="40" src="https://cdn.pixabay.com/photo/2017/11/10/05/05/twitter-2935414_1280.png" alt="HemanthGujjala" /></a> </p>
-
 - 🔭 I’m currently working on [pokemon Kingdom](https://pokemon-api-lemon.vercel.app)
 
 - 🌱 I’m currently learning **React.js**
@@ -25,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srinivas-hemanth-gujjala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srinivas-hemanth-gujjala/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/lovely.hemanth.9465177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lovely.hemanth.9465177" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/username__hemanth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/username__hemanth/" height="30" width="40" /></a>
